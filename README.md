@@ -2,6 +2,7 @@ This project analyzes a restaurant dataset to explore trends in restaurant types
 
 Technologies Used:-
 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 Google Colab
 
 
